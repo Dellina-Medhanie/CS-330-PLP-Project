@@ -26,4 +26,4 @@ console.log("String:", name);
 console.log("Floating-point number:", floatingPointNumber);
 console.log("Boolean:", working);
 console.log("Array:", university);
-console.log("Dictionary/Hash/Map:", person);
+console.log("Dictionary:", person);
